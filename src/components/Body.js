@@ -4,7 +4,7 @@ import ContainerRight from './ContainerRight'
 
 const Body = () => {
   return (
-    <div className='flex p-10 m-10 '>
+    <div className='flex m-20 bg-white border-black   '>
         <ContainerLeft/>
         <ContainerRight/>
     </div>

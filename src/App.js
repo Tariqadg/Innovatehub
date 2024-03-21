@@ -5,8 +5,10 @@ import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="">
+    <div className="bg-gray-200">
+    
       <Body/>
+     
     </div>
   
     
