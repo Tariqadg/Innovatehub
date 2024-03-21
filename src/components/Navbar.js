@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const Navbar = () => {
     return (
       <div className=" flex flex-wrap p-2 justify-between shadow-sm border-solid border-1 border-gray-100 rounded-sm">
@@ -10,9 +11,11 @@ const Navbar = () => {
             <ul className='flex flex-wrap '>
             <li>
             <input 
+            
               className= "border-solid border-2 border-gray-200 rounded-md mx-2"
               type="text"
-              placeholder="🔍Search..."
+              
+              placeholder= "🔍Search..."
             //   className="px-2 py-1 rounded-md border border-gray-300 focus:outline-none focus:ring focus:border-blue-300"
             /></li>
             

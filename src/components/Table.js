@@ -1,37 +1,27 @@
-import React from 'react'
+import React from "react";
 
+import Dropdown from "./Dropdown";
 const Table = () => {
+ 
   return (
     <div>
-        <div>
-            <ul>
-                <li>All Brands</li>
-                <li>Desk</li>
-                <li>Tags</li>
-                <li>Sort</li>
-                <li>Filter</li>
-            </ul>
-        </div>
-
-    
-    <div>
-    <table class="table-auto">
-    <thead>
-      <tr>
-        <th>Brand</th>
-        <th>Description</th>
-        <th>Members</th>
-        <th>Categories</th>
-        <th>Tags</th>
-        <th>Next Meeting</th>
-
-
-      </tr>
-    </thead>
-    </table>
+      <Dropdown/>
+      <div>
+        <table class="table-auto p-4  m-4">
+          <thead className="">
+            <tr className=" border">
+              <th className="  p-4  m-4">Brand</th>
+              <th className="  p-4  m-4">Description</th>
+              <th className="  p-4  m-4">Members</th>
+              <th className="  p-4  m-4">Categories</th>
+              <th className="  p-4  m-4">Tags</th>
+              <th className="  p-4  m-4">Next Meeting</th>
+            </tr>
+          </thead>
+        </table>
+      </div>
     </div>
-    </div>
-  )
-}
+  );
+};
 
-export default Table
+export default Table;
