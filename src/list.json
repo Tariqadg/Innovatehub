@@ -1,93 +1,113 @@
 [
-    {
-        "Brand":"Wix",
-        "description":"",
-        "Members":"",
-        "Categories":"",
-        "Tags":	"",
-        "Next Meeting":""
-
-    },
-    {
-        "Brand":"Shopify",
-        "description":"",
-        "Members":"",
-        "Categories":"",
-        "Tags":	"",
-        "Next Meeting":""
-
-    },
-    {
-        "Brand":"MailChamp",
-        "description":"",
-        "Members":"",
-        "Categories":"",
-        "Tags":	"",
-        "Next Meeting":""
-
-    },
-    {
-        "Brand":"PayPal",
-        "description":"",
-        "Members":"",
-        "Categories":"",
-        "Tags":	"",
-        "Next Meeting":""
-
-    },
-    {
-        "Brand":"Disney",
-        "description":"",
-        "Members":"",
-        "Categories":"",
-        "Tags":	"",
-        "Next Meeting":""
-
-    },
-    {
-        "Brand":"Intercom",
-        "description":"",
-        "Members":"",
-        "Categories":"",
-        "Tags":	"",
-        "Next Meeting":""
-
-    },
-    {
-        "Brand":"Google",
-        "description":"",
-        "Members":"",
-        "Categories":"",
-        "Tags":	"",
-        "Next Meeting":""
-
-    },
-    {
-        "Brand":"Evernote",
-        "description":"",
-        "Members":"",
-        "Categories":"",
-        "Tags":	"",
-        "Next Meeting":""
-
-    },
-    {
-        "Brand":"Microsoft",
-        "description":"",
-        "Members":"",
-        "Categories":"",
-        "Tags":	"",
-        "Next Meeting":""
-
-    },
-    {
-        "Brand":"Invision",
-        "description":"",
-        "Members":"",
-        "Categories":"",
-        "Tags":	"",
-        "Next Meeting":""
-
-    }
+  {
+    "id": 1,
+    "Brand": "Wix",
+    "Description": "Cloud-based website creation platform that allows users with no coding experience to design professional websites. Wix offers a variety of templates and drag-and-drop features, making it a popular choice for small businesses and entrepreneurs.",
+    "Members": ["John Doe (Head of Design)", "Jane Smith (Marketing Specialist)", "Michael Lee (Web Developer)"],
+    "Categories": ["Design", "Marketing"],
+    "Tags": ["web development", "ecommerce", "website builder", "drag-and-drop"],
+    "Next Meeting": "Tuesday, April 2nd, 2024 @ 10:00 AM"
+  },
+  {
+    "id": 2,
+    "Brand": "Shopify",
+    "Description": "Ecommerce platform that allows businesses to set up their own online stores. Shopify offers a wide range of features, including product management, inventory management, payment processing, and marketing tools.",
+    "Members": ["David Kim (Product Manager)", "Emily Garcia (Marketing Director)", "Robert Hernandez (Fulfillment Specialist)"],
+    "Categories": ["Sales", "Marketing"],
+    "Tags": ["inventory management", "payment processing", "ecommerce platform", "online store"],
+    "Next Meeting": "Wednesday, April 3rd, 2024 @ 2:00 PM "
+  },
+  {
+    "id": 3,
+    "Brand": "MailChimp",
+    "Description": "Email marketing automation platform that allows businesses to create and send email campaigns to their subscribers. MailChimp offers a variety of features, including email templates, automation workflows, and analytics.",
+    "Members": ["Sarah Jones (Email Marketing Manager)", "Matthew Williams (Content Creator)", "Ashley Brown (Marketing Analyst)"],
+    "Categories": ["Marketing", "Communication"],
+    "Tags": ["email campaigns", "automation", "email marketing platform", "subscriber management"],
+    "Next Meeting": "Thursday, April 4th, 2024 @ 11:00 AM "
+  },
+  {
+    "id": 4,
+    "Brand": "PayPal",
+    "Description": "Online payment processing and money transfer service that allows users to send and receive money online. PayPal is a popular choice for online shoppers and businesses that sell products or services online.",
+    "Members": ["Daniel Robinson (Security Specialist)", "Christina Diaz (Customer Support Representative)", "Joseph Miller (Account Manager)"],
+    "Categories": ["Finance", "Payments"],
+    "Tags": ["online transactions", "security", "payment processing", "money transfer"],
+    "Next Meeting": "Friday, April 5th, 2024 @ 3:00 PM"
+  },
+  {
+    "id": 5,
+    "Brand": "Disney",
+    "Description": "The Walt Disney Company, commonly known as Disney, is a leading diversified international entertainment and media enterprise that includes film production, animation, television broadcasting, theme parks, resorts, consumer products, interactive media, theater productions, and online media, direct-to-consumer, and international operations.",
+    "Members": ["(Replace with actual team members)", "(Replace with actual team members)", "(Replace with actual team members)"],
+    "Categories": ["Entertainment", "Media"],
+    "Tags": ["animation", "filming", "characters", "theme parks", "movies"],
+    "Next Meeting": "Monday, April 8th, 2024 @ 9:00 AM" 
+  },
+  {
+    "id": 6,
+    "Brand": "Intercom",
+    "Description": "Customer messaging platform that allows businesses to communicate with their customers through live chat, messaging, and email. Intercom helps businesses to provide better customer support and improve customer satisfaction.",
+    "Members": ["(Replace with actual team members)", "(Replace with actual team members)", "(Replace with actual team members)"],
+    "Categories": ["Customer Support", "Communication"],
+    "Tags": ["live chat", "messaging", "customer support platform", "customer satisfaction"],
+    "Next Meeting": "Tuesday, April 9th, 2024 @ 1:00 PM" 
+  },
+{
+  "id": 7,
+  "Brand": "Google",
+  "Description": "Search engine and technology company that offers a variety of products and services, including search, email, online maps, cloud storage, and productivity tools. Google is one of the most popular websites in the world and processes billions of searches every day.",
+  "Members": [
+    "Sundar Pichai (CEO)",
+    "Ruth Porat (CFO)",
+    "Prabhakar Raghavan (Senior Vice President, Search)",
+    "(Add additional team members)"
+  ],
+  "Categories": ["Technology", "Search", "Internet"],
+  "Tags": ["search engine", "email", "cloud storage", "productivity tools", "artificial intelligence"],
+  "Next Meeting": "No meeting scheduled at this time"
+},
+{
+  "id": 8,
+  "Brand": "Evernote",
+  "Description": "Note-taking and organization app that allows users to create notes, checklists, and to-do lists. Evernote also allows users to clip articles, web pages, and other content from the web.",
+  "Members": [
+    "Chris O'Neill (CEO)",
+    "Lincoln Boro (CTO)",
+    "Phil Libin (Former CEO)",
+    "(Add additional team members)"
+  ],
+  "Categories": ["Productivity", "Organization"],
+  "Tags": ["note-taking", "to-do lists", "organization tools", "web clipping"],
+  "Next Meeting": "Monday, April 1st, 2024 @ 4:00 PM"
+},
+{
+  "id": 9,
+  "Brand": "Microsoft",
+  "Description": "Multinational technology company that develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services. Its most well-known software products are the Windows operating system, the Microsoft Office suite, and the Internet Explorer web browser.",
+  "Members": [
+    "Satya Nadella (CEO)",
+    "Amy Hood (CFO)",
+    "Brad Smith (President)",
+    "(Add additional team members)"
+  ],
+  "Categories": ["Technology", "Software", "Hardware"],
+  "Tags": ["operating systems", "productivity software", "cloud computing", "gaming"],
+  "Next Meeting": "Wednesday, April 10th, 2024 @ 10:00 AM"
+},
+{
+  "id": 10,
+  "Brand": "Invision",
+  "Description": "Prototyping platform that allows designers and product managers to create interactive prototypes of websites and apps. Invision helps designers to get feedback on their designs early in the development process.",
+  "Members": [
+    "Clark Valberg (CEO)",
+    "Ben Silbermann (Co-founder & Executive Chairman)",
+    "Blake Bartlett (CTO)",
+    "(Add additional team members)"
+  ],
+  "Categories": ["Design", "Product Management"],
+  "Tags": ["prototyping", "user interface (UI) design", "user experience (UX) design", "collaboration"],
+  "Next Meeting": "Thursday, April 11th, 2024 @ 2:00 PM"
+}
     
 ]
