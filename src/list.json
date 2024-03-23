@@ -1,12 +1,13 @@
 [
-  {
+  {   
     "id": 1,
     "Brand": "Wix",
     "Description": "Cloud-based website creation platform that allows users with no coding experience to design professional websites. Wix offers a variety of templates and drag-and-drop features, making it a popular choice for small businesses and entrepreneurs.",
     "Members": ["John Doe (Head of Design)", "Jane Smith (Marketing Specialist)", "Michael Lee (Web Developer)"],
     "Categories": ["Design", "Marketing"],
     "Tags": ["web development", "ecommerce", "website builder", "drag-and-drop"],
-    "Next Meeting": "Tuesday, April 2nd, 2024 @ 10:00 AM"
+    "Next Meeting": "Tuesday, April 2nd, 2024 @ 10:00 AM",
+    "imgsrc":"   https://cdn-icons-png.flaticon.com/512/5968/5968770.png "
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "Members": ["David Kim (Product Manager)", "Emily Garcia (Marketing Director)", "Robert Hernandez (Fulfillment Specialist)"],
     "Categories": ["Sales", "Marketing"],
     "Tags": ["inventory management", "payment processing", "ecommerce platform", "online store"],
-    "Next Meeting": "Wednesday, April 3rd, 2024 @ 2:00 PM "
+    "Next Meeting": "Wednesday, April 3rd, 2024 @ 2:00 PM ",
+    "imgsrc":"https://cdn-icons-png.flaticon.com/512/14063/14063185.png"
   },
   {
     "id": 3,
@@ -24,8 +26,9 @@
     "Members": ["Sarah Jones (Email Marketing Manager)", "Matthew Williams (Content Creator)", "Ashley Brown (Marketing Analyst)"],
     "Categories": ["Marketing", "Communication"],
     "Tags": ["email campaigns", "automation", "email marketing platform", "subscriber management"],
-    "Next Meeting": "Thursday, April 4th, 2024 @ 11:00 AM "
-  },
+    "Next Meeting": "Thursday, April 4th, 2024 @ 11:00 AM ",
+     "imgsrc":"https://cdn-icons-png.flaticon.com/512/11891/11891975.png"}
+  ,
   {
     "id": 4,
     "Brand": "PayPal",
@@ -33,8 +36,9 @@
     "Members": ["Daniel Robinson (Security Specialist)", "Christina Diaz (Customer Support Representative)", "Joseph Miller (Account Manager)"],
     "Categories": ["Finance", "Payments"],
     "Tags": ["online transactions", "security", "payment processing", "money transfer"],
-    "Next Meeting": "Friday, April 5th, 2024 @ 3:00 PM"
-  },
+    "Next Meeting": "Friday, April 5th, 2024 @ 3:00 PM",
+     "imgsrc":"https://cdn-icons-png.flaticon.com/512/174/174861.png"}
+  ,
   {
     "id": 5,
     "Brand": "Disney",
@@ -42,8 +46,9 @@
     "Members": ["(Replace with actual team members)", "(Replace with actual team members)", "(Replace with actual team members)"],
     "Categories": ["Entertainment", "Media"],
     "Tags": ["animation", "filming", "characters", "theme parks", "movies"],
-    "Next Meeting": "Monday, April 8th, 2024 @ 9:00 AM" 
-  },
+    "Next Meeting": "Monday, April 8th, 2024 @ 9:00 AM" ,
+     "imgsrc":"https://as1.ftcdn.net/v2/jpg/03/29/35/28/1000_F_329352860_j2ml19x4UggVf7FeOAbzafoBl5xLPhQy.jpg"}
+  ,
   {
     "id": 6,
     "Brand": "Intercom",
@@ -51,8 +56,9 @@
     "Members": ["(Replace with actual team members)", "(Replace with actual team members)", "(Replace with actual team members)"],
     "Categories": ["Customer Support", "Communication"],
     "Tags": ["live chat", "messaging", "customer support platform", "customer satisfaction"],
-    "Next Meeting": "Tuesday, April 9th, 2024 @ 1:00 PM" 
-  },
+    "Next Meeting": "Tuesday, April 9th, 2024 @ 1:00 PM" ,
+     "imgsrc":"https://cdn-icons-png.flaticon.com/512/8765/8765195.png"}
+  ,
 {
   "id": 7,
   "Brand": "Google",
@@ -65,8 +71,9 @@
   ],
   "Categories": ["Technology", "Search", "Internet"],
   "Tags": ["search engine", "email", "cloud storage", "productivity tools", "artificial intelligence"],
-  "Next Meeting": "No meeting scheduled at this time"
-},
+  "Next Meeting": "No meeting scheduled at this time",
+   "imgsrc":"https://cdn-icons-png.flaticon.com/512/281/281764.png"}
+,
 {
   "id": 8,
   "Brand": "Evernote",
@@ -79,8 +86,9 @@
   ],
   "Categories": ["Productivity", "Organization"],
   "Tags": ["note-taking", "to-do lists", "organization tools", "web clipping"],
-  "Next Meeting": "Monday, April 1st, 2024 @ 4:00 PM"
-},
+  "Next Meeting": "Monday, April 1st, 2024 @ 4:00 PM",
+   "imgsrc":"https://cdn-icons-png.flaticon.com/512/5968/5968817.png"}
+,
 {
   "id": 9,
   "Brand": "Microsoft",
@@ -93,8 +101,9 @@
   ],
   "Categories": ["Technology", "Software", "Hardware"],
   "Tags": ["operating systems", "productivity software", "cloud computing", "gaming"],
-  "Next Meeting": "Wednesday, April 10th, 2024 @ 10:00 AM"
-},
+  "Next Meeting": "Wednesday, April 10th, 2024 @ 10:00 AM",
+   "imgsrc":"https://cdn-icons-png.flaticon.com/512/732/732221.png"}
+,
 {
   "id": 10,
   "Brand": "Invision",
@@ -107,7 +116,8 @@
   ],
   "Categories": ["Design", "Product Management"],
   "Tags": ["prototyping", "user interface (UI) design", "user experience (UX) design", "collaboration"],
-  "Next Meeting": "Thursday, April 11th, 2024 @ 2:00 PM"
+  "Next Meeting": "Thursday, April 11th, 2024 @ 2:00 PM",
+   "imgsrc":"https://cdn-icons-png.flaticon.com/512/5968/5968723.png"
 }
     
 ]

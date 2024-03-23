@@ -2,19 +2,21 @@ import React, { useState } from "react";
 import { AiOutlineCaretDown, AiOutlineCaretUp } from "react-icons/ai";
 import { LuFolders } from "react-icons/lu";
 import { IoIosAddCircleOutline } from "react-icons/io";
+import { FaPlus } from "react-icons/fa";
+
 
 const Accordion = () => {
   const [isOpen1, setIsOpen1] = useState(false);
   const [isOpen2, setIsOpen2] = useState(false);
   const [isOpen3, setIsOpen3] = useState(false);
   const [isOpen4, setIsOpen4] = useState(false);
-  const [isOpen5, setIsOpen5] = useState(false);
+  
 
   return (
     <div className="mt-10">
       <div className="flex  mt-1 justify-between w-full opacity-50 font-bold ">
         <p>FOLDERS</p>
-        <button>+</button>
+        <button   ><FaPlus /></button>
       </div>
       <div className=" relative  flex flex-col items-start rounded-lg  text-center  w-full  hover:bg-gray-100 hover:shadow-md  hover:border-gray-300  ">
         <button
@@ -107,7 +109,7 @@ const Accordion = () => {
           </div>
         )}
       </div>
-      <div className=" relative  flex flex-col items-start rounded-lg  text-center  w-full  hover:bg-gray-100 hover:shadow-md  hover:border-gray-300  ">
+      <div className=" relative text-center flex flex-col items-start rounded-lg   w-full  hover:bg-gray-100 hover:shadow-md  hover:border-gray-300  ">
         <button
           onClick={() => setIsOpen4((prev) => !prev)}
           className="flex  justify-between w-full  font-semibold  "
@@ -121,7 +123,7 @@ const Accordion = () => {
           )}
         </button>
         {isOpen4 && (
-          <div classname="bg-blue-400 absolute ">
+          <div classname="bg-blue-400 ">
             <div>
             <h3>Roadmap</h3>
               <h3>Feedback</h3>
